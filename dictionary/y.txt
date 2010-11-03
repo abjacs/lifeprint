@@ -1,0 +1,12 @@
+	http://lifeprint.com/asl101/#top
+YEAR		http://lifeprint.com/pages-signs/y/year.htm
+[annually, last-year, next-year, numerical incorporation]		http://lifeprint.com/pages-signs/y/yearadvanced.htm
+	http://lifeprint.com/pages-signs/c/call.htm
+YELLOW		http://lifeprint.com/pages-signs/y/yellow.htm
+YES/NO		http://lifeprint.com/pages-signs/y/yes.htm
+YESTERDAY		http://lifeprint.com/pages-signs/y/yesterday.htm
+YOGURT		http://lifeprint.com/pages-signs/y/yogurt.htm
+	http://lifeprint.com/pages-signs/i/indexing.htm
+YOUNG		http://lifeprint.com/pages-signs/y/young.htm
+YOUR		http://lifeprint.com/pages-signs/y/your.htm
+	http://lifeprint.com/pages-signs/p/possession.htm

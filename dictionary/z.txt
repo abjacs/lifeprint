@@ -1,0 +1,2 @@
+ZEBRA		http://lifeprint.com/pages-signs/z/zebra.htm
+ZIP		http://lifeprint.com/pages-signs/z/zip.htm

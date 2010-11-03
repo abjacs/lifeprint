@@ -1,0 +1,4 @@
+QUIET		http://lifeprint.com/pages-signs/q/quiet.htm
+QUIT		http://lifeprint.com/pages-signs/q/quit.htm
+QUIZ		http://lifeprint.com/pages-signs/q/quiz.htm
+	http://lifeprint.com/pages-signs/t/topic.htm

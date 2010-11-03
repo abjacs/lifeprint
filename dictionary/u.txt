@@ -1,0 +1,15 @@
+UGLY		http://lifeprint.com/pages-signs/u/ugly.htm
+UMBRELLA		http://lifeprint.com/pages-signs/u/umbrella.htm
+UNCLE		http://lifeprint.com/pages-signs/u/uncle.htm
+UNDERESTIMATE		http://lifeprint.com/pages-signs/u/underestimate.htm
+UNDERSTAND		http://lifeprint.com/pages-signs/u/understand.htm
+UNDERWEAR		http://lifeprint.com/pages-signs/u/underwearx.htm
+UP		http://lifeprint.com/pages-signs/u/up.htm
+UP		http://lifeprint.com/pages-signs/u/up.htm
+UP		http://lifeprint.com/pages-signs/u/up.htm
+UPSET		http://lifeprint.com/pages-signs/u/upset.htm
+URINATE		http://lifeprint.com/pages-signs/u/urinate.htm
+USB_drive		http://lifeprint.com/pages-signs/u/usb_drive.htm
+USE		http://lifeprint.com/pages-signs/u/use.htm
+USED		http://lifeprint.com/pages-signs/u/used.htm
+UTAH		http://lifeprint.com/pages-signs/u/utah.htm

@@ -1,0 +1,14 @@
+JANITOR		http://lifeprint.com/pages-signs/j/janitor.htm
+JAPAN		http://lifeprint.com/pages-signs/j/japan.htm
+JEALOUS		http://lifeprint.com/pages-signs/j/jealous.htm
+JEALOUS		http://lifeprint.com/pages-signs/j/jealous.htm
+JEHOVAH'S WITNESSES		http://lifeprint.com/pages-signs/j/jehovahs_witnesses.htm
+JESUS		http://lifeprint.com/pages-signs/j/jesus.htm
+JEWISH		http://lifeprint.com/pages-signs/j/jewish.htm
+JOB-[#JOB-(lexicalized)]		http://lifeprint.com/pages-signs/j/job.htm
+	http://lifeprint.com/pages-signs/o/of.htm
+	http://lifeprint.com/pages-signs/t/tease.htm
+	http://lifeprint.com/pages-signs/i/if.htm
+JUICE		http://lifeprint.com/pages-signs/j/juice.htm
+JUNIOR		http://lifeprint.com/pages-signs/j/junior.htm
+JUST		http://lifeprint.com/pages-signs/j/just.htm
